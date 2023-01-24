@@ -1,0 +1,16 @@
+
+    {
+      "chainId": 101,
+      "address": "5LCpizrrGRpSTuzWkRCKTX5inZKxMDT9Xb3fN8Sf9evr",
+      "symbol": "ATM",
+      "name": "antonmolodec",
+      "decimals": 9,
+      "logoURI": "https://github.com/dauhbbb/logo/blob/main/logo.png?raw=true",
+      "tags": [
+        "social-token",
+        "meme-token"
+      ],
+      "extensions": {
+        "twitter": "https://twitter.com/elonmusk"
+      }
+    },
